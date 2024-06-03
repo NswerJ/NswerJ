@@ -27,9 +27,9 @@ ___
 
 > ## Github 
 
-![홍준혁의 깃허브 통계](https://github-readme-stats.vercel.app/api?username=HY30K&show_icons=true&theme=onedark&locale=kr)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HY30K&layout=compact&theme=onedark)
-<a href="https://opgc.me/#/users/HY30K" target="_blank"><img src="https://api.opgc.me/githubs/users/HY30K/tag/?theme=basic" /></a>
+![황원준의 깃허브 통계](https://github-readme-stats.vercel.app/api?username=NswerJ&show_icons=true&theme=onedark&locale=kr)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NswerJ&layout=compact&theme=onedark)
+<a href="https://opgc.me/#/users/NswerJ" target="_blank"><img src="https://api.opgc.me/githubs/users/NswerJ/tag/?theme=basic" /></a>
 
 > ## 알고리즘 사이트
 
