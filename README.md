@@ -29,7 +29,7 @@ ___
 
 ![황원준의 깃허브 통계](https://github-readme-stats.vercel.app/api?username=NswerJ&show_icons=true&theme=onedark&locale=kr)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NswerJ&layout=compact&theme=onedark)
-<a href="https://opgc.me/#/users/NswerJ" target="_blank"><img src="https://api.opgc.me/githubs/users/NswerJ/tag/?theme=basic" /></a>
+<a href="https://opgc.me/#/users/NswerJ" target="_blank"><img src="https://api.opgc.me/githubs/users/NswerJ/tag/?theme=basic"/></a>
 
 > ## 알고리즘 사이트
 
