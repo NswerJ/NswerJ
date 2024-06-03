@@ -33,4 +33,4 @@ ___
 
 > ## 알고리즘 사이트
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jun44227)](https://solved.ac/jun44227/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hwj0609)](https://solved.ac/hwj0609/)
