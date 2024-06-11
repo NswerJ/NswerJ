@@ -19,11 +19,6 @@ ___
 <center><img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=Visual Studio&logoColor={white}"/></a>
 <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor={white}"/></a></center>
 
-#### <center>:bookmark:조금 해본 것들:bookmark:</center>
-
-<center><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C&logoColor={white}"/></a>
-<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor={F7DF1E}"/></a>
-<img src="https://img.shields.io/badge/Phython-000000?style=for-the-badge&logo=Python&logoColor={3776AB}"/></a></center>
 
 > ## Github 
 
